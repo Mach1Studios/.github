@@ -1,9 +1,9 @@
 <!-- .github/README.md -->
-<p align="center">
+<p align="left">
   <img src="https://www.mach1.tech/images/logo-bg.svg" width="280" alt="Mach1 logo"/>
 </p>
-<h1 align="center">Mach1 • Spatial&nbsp;Audio&nbsp;Simplified</h1>
-<p align="center"><em>Defenders&nbsp;of&nbsp;the&nbsp;Audio&nbsp;Realm™</em></p>
+<h1 align="left">Mach1 • Spatial&nbsp;Audio&nbsp;Simplified</h1>
+<p align="left"><em>Defenders&nbsp;of&nbsp;the&nbsp;Audio&nbsp;Realm™</em></p>
 
 ---
 
